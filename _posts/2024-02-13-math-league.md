@@ -11,7 +11,7 @@ On the afternoon of the 13th of February, 2024, I walked into the dining hall, r
 
 I rushed through problems 1 through 5, and started reading problem 6. It went a little something like this: {% marginnote 'one' 'This may not be the exact way that it is written, and there could a chance that it does not resemble the actual problem whatsoever.' %}  
 
-{{ "{% maincolumn 'assets/img/2024-02-13-problem.png' 'From Math League Press, 2024, Competition #5, Problem 6.' "}} %}  
+{% maincolumn "assets/img/2024-02-13-problem.png" "From Math League Press, 2024, Competition #5, Problem 6."%}  
 
 "Exact value", I thought. There must be some extremely clever way to solve this that yields a single, maybe two trig functions, with a coefficient or two. Otherwise, it could not possibly fit into the impossibly small square on the answer sheet.  
 
