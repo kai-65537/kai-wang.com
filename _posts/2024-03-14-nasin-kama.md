@@ -21,8 +21,8 @@ I have made songs with UTAU or Vocaloid tunings before, but this is my first tim
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 60%;
+  height: 60%;
 }
 </style>
 <div class="video-holder">
