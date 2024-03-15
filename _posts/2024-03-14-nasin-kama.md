@@ -9,7 +9,7 @@ As usual, a little bit of context: toki Pona is a philosophical artistic const
 
 I have made songs with UTAU or Vocaloid tunings before, but this is my first time attempting to tune toki pona. Anyway, here’s the lyric video:
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/i6kaPpLUol0" title="Nasin kama, nasin pini ft. 重音テト" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/i6kaPpLUol0" title="Nasin kama, nasin pini ft. 重音テト" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 When I heard this song on Pokemon Day, I knew that I had to make something based off of it. It’s cute, it’s wholesome, and iyowa just pulled another classic iyowa again. There were 3 key changes in the first verse alone, and they didn’t even try to hold back the super-iconic chromatic descensions.
 
