@@ -14,7 +14,6 @@ I have made songs with UTAU or Vocaloid tunings before, but this is my first tim
   position: relative;
   width: 100%;
   height: 0;
-  padding-bottom: 56.25%;
   overflow: hidden;
 }
 .video-holder iframe {
