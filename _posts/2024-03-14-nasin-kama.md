@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making of *nasin kama, nasin pini*"
+title:  "Making of nasin kama, nasin pini"
 date:   2024-03-14 20:04:01
 categories: post
 ---
