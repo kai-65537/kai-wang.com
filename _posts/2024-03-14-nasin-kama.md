@@ -12,7 +12,7 @@ I have made songs with UTAU or Vocaloid tunings before, but this is my first tim
 <style>
 .video-holder {
   position: relative;
-  width: 100%;
+  width: 60%;
   height: 0;
   padding-bottom: 56.25%;
   overflow: hidden;
