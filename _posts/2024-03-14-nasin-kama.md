@@ -4,7 +4,7 @@ title:  "Making of nasin kama, nasin pini"
 date:   2024-03-14 20:04:01
 categories: post
 ---
-
+<!--more-->
 As usual, a little bit of context: toki Pona is a philosophical artistic constructed language created by Sonja Lang known for its small vocabulary, simplicity, and ease of acquisition.
 
 I have made songs with UTAU or Vocaloid tunings before, but this is my first time attempting to tune toki pona. Anyway, here’s the lyric video:
