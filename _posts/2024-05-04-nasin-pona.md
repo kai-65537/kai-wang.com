@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making of Nasin pona lon telo ike"
+title:  "Making of nasin pona lon telo ike"
 date:   2024-05-04 20:04:01
 categories: post
 ---
