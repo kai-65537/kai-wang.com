@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Making of nasin kama, nasin pini"
-date:   2024-03-14 20:04:01
+title:  "Making of Nasin pona lon telo ike"
+date:   2024-05-04 20:04:01
 categories: post
 ---
 <!--more-->
