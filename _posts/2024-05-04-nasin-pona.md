@@ -23,7 +23,7 @@ I started by purchasing the “essentials” plan of [Bitwig](https://www.bitwig
 
 I started by copying down the harmony part of [this](https://www.youtube.com/watch?v=ym6disE7Ue8) transcription made by the awesome Jason Fieler. Everything was easy except for the fact that I haven’t read sheet music for a long time. I made some mistakes, but I was able to correct them later. Then, I split the harmony into 9 voices, and tuned them separately using OpenUTAU. The hard part is getting a synthesizer to sound like a choir, because variation needs to be added by hand. After this, I did some mixing on the harmony part, and this part could be considered done.
 
-{% marginfigure 'fig-3' 'assets/img/2024-05-04-teto.png' 'That's a lot of Teto!' %}
+{% marginfigure 'fig-3' 'assets/img/2024-05-04-teto.png' 'That is a lot of Teto!' %}
 
 The melody part was even easier, apart from having to stretch some parts of the harmony out because the mistakes I made. I didn’t like the tuning of the melody, and I think more work could be done. I didn’t know how to improve this as of right now, but I will study more and hopefully, one day, understand how to tune UTAU voicebanks properly.
 
