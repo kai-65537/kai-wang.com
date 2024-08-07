@@ -1,7 +1,8 @@
 <footer>
   <hr class="slender">
   <ul class="footer-links">
-    <li><a href="mailto:jankajo@duck.com"><span class="icon-mail3"></span></a></li>    
+    <li><a href="mailto:jankajo@duck.com"><span class="icon-mail3"></span></a></li> 
+    <li><a href="/feed.xml"><span class="icon-rss"></span></a></li>    
     {% for entry in site.data.social %}
       <li>
         <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
