@@ -1,6 +1,4 @@
 baseurl:
-plugins:
-  - jekyll-feed
 title: Tufte-Jekyll
 subtitle: Content-centric blogging
 author: Kai Wang
