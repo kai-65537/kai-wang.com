@@ -10,4 +10,4 @@ The following is a poem composed by me and Mông-dziao, in collaboration with Ch
 
 Enjoy.  
 
-{% maincolumn 'assets/img/2024-11-16-untitled-ii.png' ' ' %}
+{% maincolumn 'assets/img/2024-12-16-untitled-ii.png' ' ' %}
