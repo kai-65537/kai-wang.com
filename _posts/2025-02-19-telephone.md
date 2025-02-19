@@ -20,7 +20,7 @@ Before looking at the results, let us study the quantitative attributes of the 5
 
 Four text attributes were measured for every paragraph: word count, sentence length, readability according to the Flesch-Kincaid scale, and syntactic complexity according to parse-tree depths. Type-token ratio was also measured but later ditched, because TTR is meant to be used for materials much longer than paragraphs. The parse-tree depth was measured with StanfordNLP's Stanza, whose depth was found with a simple BFS on the neural-network-generated syntax tree.
 
-{% maincolumn 'assets/img/2025-02-19-boxplot.png' 'The original Wikipedia article is labeled Src. P-50, P-100, R-50, R-100 are the 50th generation with the paraphrase prompt, the 100th generation with the paraphrase prompt, the 50th generation with the rewrite prompt, and the 100th generation with the rewrite prompt, respectively. Outliers are calculated with the 1.5IQR rule. Asterisks are labeled according to the p-value of the text in comparison with the original article. * ,**, and *** are p<0.05, p<0.01, and p<0.001, respectively.' %}
+{% maincolumn 'assets/img/2025-02-19-boxplot.png' 'The original Wikipedia article is labeled Src. P-50, P-100, R-50, R-100 are the 50th generation with the paraphrase prompt, the 100th generation with the paraphrase prompt, the 50th generation with the rewrite prompt, and the 100th generation with the rewrite prompt, respectively. Outliers are calculated with the 1.5IQR rule. Asterisks are labeled according to the p-value of the text in comparison with the original article. \* ,\*\*, and \*\*\* are p<0.05, p<0.01, and p<0.001, respectively.' %}
 
 What can we see here? 
 
